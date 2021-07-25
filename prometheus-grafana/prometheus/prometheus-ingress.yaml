@@ -8,7 +8,7 @@ metadata:
 spec:
   rules:
   # Use the host you used in your kubernetes Ingress Configurations
-  - host: cilsy-monitoring.hansenfernando.xyz
+  - host: cilsy-prometheus.hansenfernando.xyz
     http:
       paths: 
       - path: /
